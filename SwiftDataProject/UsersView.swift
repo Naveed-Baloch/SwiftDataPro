@@ -49,6 +49,9 @@ struct UsersView: View {
                                     
                                 Spacer()
                                 Text(user.joinDate.formatted(date: .abbreviated, time: .omitted))
+                                
+                                Spacer()
+                                Text(String(user.jobs.count))
                             }
                         }
                     }
