@@ -1,9 +1,8 @@
 # Project 12: Swift Data Project Advanced
 
 ## 🚀 Features
-- 📝 CRUD Operations
 - 🔍 **Data Filtering with Predicates**
-- 🔄 **Sorting**
-- 🔗 **Data Relationships**
+- 🔄 **Sorting with SortDescriptor**
+- 🔗 **Data Relationships & Rules for Deletion**
 - 🛠️ **Migrations**
 - ☁️ **iCloud Syncing**
